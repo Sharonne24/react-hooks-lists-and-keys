@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "webpack-dev-server": "^4.15.0"
   },
   "scripts": {
     "start": "react-scripts start",
